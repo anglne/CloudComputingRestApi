@@ -1,0 +1,17 @@
+{
+    "user1": {  
+        "Company Name": "Samsung Inc",
+        "Name of Employees": ["Louriell Jn", "Jenn", "George", "Shiel", "Mark"],
+        "Positions":"Accountants",
+        "Location":"Melrose Avenue, USA",
+        "id":1
+    },
+  
+    "user2":  {
+        "Company Name": "Apple Inc",
+        "Name of Employees":["Angeline", "Kristine", "Carmila", "Hahnz", "Kenneth"],
+        "Positions":"Receptionists",
+        "Location":"Rodeo Drive, USA",
+        "id":2
+    }
+}
